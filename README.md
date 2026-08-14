@@ -13,7 +13,22 @@ We respectfully cite the original archive as follows:
 
 The archive is publicly available at [http://www.timeseriesclassification.com](http://www.timeseriesclassification.com).
 
-**[新增]**
-We would also like to **gently and humbly remind** any future users of this archive that, alongside the original 2018 paper, we highly recommend citing the comprehensive experimental review by Ruiz et al. (2021). Their work provides an extensive benchmark and insightful evaluation of many recent algorithms, which we believe can greatly benefit comparative studies. Should you find our code useful, we kindly suggest including that reference as well, as it acknowledges the broader community efforts behind this field.
+---
 
-> Ruiz, A. P., Flynn, M., Large, J., Middlehurst, M., & Bagnall, A. (2021). The great multivariate time series classification bake off: a review and experimental evaluation of recent algorithmic advances. *Data mining and knowledge discovery*, 35(2), 401–449.
+We would also like to **gently and humbly mention** that, for any future users of this archive, we highly recommend citing the comprehensive experimental review by Ruiz et al. (2021), which provides an extensive benchmark and insightful evaluation of recent algorithms. We believe this reference can be very helpful for contextualising comparative studies, and we kindly suggest including it alongside the original archive paper.
+
+For your convenience, the BibTeX entry is:
+
+```bibtex
+@article{ruiz2021great,
+  title={The great multivariate time series classification bake off: a review and experimental evaluation of recent algorithmic advances},
+  author={Ruiz, Alejandro Pasos and Flynn, Michael and Large, James and Middlehurst, Matthew and Bagnall, Anthony},
+  journal={Data mining and knowledge discovery},
+  volume={35},
+  number={2},
+  pages={401--449},
+  year={2021},
+  publisher={Springer}
+}
+
+
