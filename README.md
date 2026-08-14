@@ -15,7 +15,7 @@ The archive is publicly available at [http://www.timeseriesclassification.com](h
 
 ---
 
-We would also like to **gently and humbly mention** that, for any future users of this archive, we highly recommend citing the comprehensive experimental review by Ruiz et al. (2021), which provides an extensive benchmark and insightful evaluation of recent algorithms. We believe this reference can be very helpful for contextualising comparative studies, and we kindly suggest including it alongside the original archive paper.
+We would also like to mention that, for any future users of this archive, we highly recommend citing the comprehensive experimental review by Ruiz et al. (2021), which provides an extensive benchmark and insightful evaluation of recent algorithms. We believe this reference can be very helpful for contextualising comparative studies, and we kindly suggest including it alongside the original archive paper.
 
 For your convenience, the BibTeX entry is:
 
