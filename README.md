@@ -53,6 +53,7 @@ This project uses the UEA Multivariate Time Series Classification Archive. We th
   journal={arXiv preprint arXiv:1811.00075},
   year={2018}
 }
+```
 
 ## License
 
