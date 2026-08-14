@@ -1,5 +1,6 @@
 # FreSH00
 Code for FreSH
+The code is currently being reorganized and refactored; the full implementation will be provided in upcoming updates.
 
 ## Acknowledgements
 
