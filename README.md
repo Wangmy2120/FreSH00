@@ -12,3 +12,8 @@ We respectfully cite the original archive as follows:
 > Bagnall, A., Dau, H. A., Lines, J., Flynn, M., Large, J., Bostrom, A., Southam, P., & Keogh, E. (2018). The UEA multivariate time series classification archive, 2018. *arXiv preprint arXiv:1811.00075*.
 
 The archive is publicly available at [http://www.timeseriesclassification.com](http://www.timeseriesclassification.com).
+
+**[新增]**
+We would also like to **gently and humbly remind** any future users of this archive that, alongside the original 2018 paper, we highly recommend citing the comprehensive experimental review by Ruiz et al. (2021). Their work provides an extensive benchmark and insightful evaluation of many recent algorithms, which we believe can greatly benefit comparative studies. Should you find our code useful, we kindly suggest including that reference as well, as it acknowledges the broader community efforts behind this field.
+
+> Ruiz, A. P., Flynn, M., Large, J., Middlehurst, M., & Bagnall, A. (2021). The great multivariate time series classification bake off: a review and experimental evaluation of recent algorithmic advances. *Data mining and knowledge discovery*, 35(2), 401–449.
