@@ -1,0 +1,19 @@
+name: fresh
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+    - sktime
+    - patool
+    - PyWavelets
