@@ -15,7 +15,7 @@ The archive is publicly available at [http://www.timeseriesclassification.com](h
 
 ---
 
-We formally cite the archive as follows:
+This project uses the UEA Multivariate Time Series Classification Archive. We thank Bagnall, Dau, Lines, Flynn, Large, Bostrom, Southam, Keogh, and all researchers involved in collecting, curating, and cleaning this dataset. If you use this repository or build upon this work, please also cite the original dataset paper:
 
 ```bibtex
 @article{bagnall2018uea,
